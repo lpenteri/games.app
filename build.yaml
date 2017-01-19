@@ -1,2 +1,27 @@
+language: js
+version: 0.1.0
+
+platform:
+  - target: ubuntu
+    version: 14.04
+    arch: i686
+
+install:
+  -  npm install
+
+api: 0.7.3
+
 package:
-    - *
+  - conf.js
+  - eventclient.js
+  - grunt.js
+  - locales/en-GB/messages.pot
+  - locales/it-IT/messages.pot 
+  - gamesapp.js
+  - package.json
+  - games/Chess.swf\
+  - games/Disc Golf.swf
+  - games/Flappy Bird.swf
+  - games/IQ Test.swf
+  - games/Ping Pong.swf
+  - games/Simon.swf
