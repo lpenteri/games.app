@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Games app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-05 14:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: English\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en-GB\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "Which game would you like to play?"
+msgstr "Quale gioco vorresti fare?"
+
+msgid "What would you like to do?"
+msgstr "Cosa vorresti fare? "
+
+msgid "lightning"
+msgstr "lightning"
+
+msgid "librarian"
+msgstr "librarian"
+
+msgid "simon"
+msgstr "simon"
+
+msgid "brain safari"
+msgstr "brain safari"
+
+msgid "door"
+msgstr "porta"
+
+msgid "to"
+msgstr "a"
+
+msgid "instructions"
+msgstr "Leggere le istruzioni?"
+
+msgid "instructions_keywords"
+msgstr "leggere, istruzioni"
+
+msgid "play"
+msgstr "Avviare il gioco?"
+
+msgid "play_keywords"
+msgstr "avviare, gioco, giocare"
+
+msgid "Lightning librarian instructions"
+msgstr "<p>Preparate la vostra memoria e mettetela a dura prova, ad attendervi c'è un duro lavoro in biblioteca!</p><p>Nei panni di una smemorata vecchietta che lavora nella biblioteca della scuola, il vostro compito sarà quello di memorizzare gli argomenti dei libri disposti negli scaffali, e poi soddisfare gli studenti ricordando dove sono posizionati i volumi richiesti.</p><p>Per giocare utilizzate le FRECCE direzionali per muovervi tra gli scaffali della libreria, e la SPACEBAR per prendere i libri e consegnarli agli studenti.</p><p>Buon lavoro!</p>"
+
+msgid "Brainsafari instructions"
+msgstr "<p>Sulla scia della moda lanciata dai giochi Brain del Nintendo DS, allenate anche online il vostro cervello con Brain Safari, un puzzle game nel quale sarete chiamati a risolvere quesiti logici, matematici e di memoria più o meno difficili.</p><p>Nella prima fase dovrete mettere alla prova le vostre capacità logiche, calcolando il peso degli animali mostrati. Nella seconda parte rispolvererete le nozioni di matematica, verificando la vostra capacità di effettuare calcoli al volo, e risolvendo piccole equazioni scegliendo il segno mancante o il risultato esatto. Infine, nella la sezione dedicata ai puzzle, dovrete scegliere il pezzo mancante o indicare quanti animali sono rimasti nella capanna.</p>"
+
+msgid "Door To Door instructions"
+msgstr "<p>Un bel memory dallo stile originale.</p><p>Dietro ogni porta di questo palazzo si nasconde un personaggio che va accoppiato con un altro uguale a lui, fino a scoprire tutti gli inquilini dell'edificio, entro il tempo massimo a disposizione.</p><p>Di livello in livello però, il palazzo aumenterà di un piano, e gli inquilini saranno sempre più numerosi e diversi tra loro... riuscirete a superare tutti i livelli del gioco?</p><p>Usate il MOUSE e il click del mouse per giocare.</p>"
+
+msgid "Simon instructions"
+msgstr "<p>Un bel gioco che vi aiuterà ad esercitare la vostra memoria visiva. Lo scopo? Cercare di ripetere le esatte sequenze di colore proposte dal computer, che diventereanno ogni volta più difficili!</p>"

@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Games app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-05 14:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: English\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en-GB\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "Which game would you like to play?"
+msgstr "Which game would you like to play?"
+
+msgid "What would you like to do?"
+msgstr "What would you like to do? "
+
+msgid "lightning"
+msgstr "lightning"
+
+msgid "librarian"
+msgstr "librarian"
+
+msgid "simon"
+msgstr "simon"
+
+msgid "brain safari"
+msgstr "brain safari"
+
+msgid "door"
+msgstr "door"
+
+msgid "to"
+msgstr "to"
+
+msgid "instructions"
+msgstr "Read the instructions?"
+
+msgid "instructions_keywords"
+msgstr "read, instructions"
+
+msgid "play"
+msgstr "Play the game?"
+
+msgid "play_keywords"
+msgstr "play, game"
+
+msgid "Lightning librarian instructions"
+msgstr "<p>Help Lydia the Librarian quickly find books for the kids. The kids' word bubbles tell you which books they want. But the books aren't labeled, so you need to memorize the location of each book!</p><p>If you like this game, you might enjoy the School Supply SNAP game which also trains short-term memory.</p><p>HOW TO PLAY. Bring the books to the kids before they get upset and leave. Drop any unwanted books into the Return slot.</p><p>You are Lydia the Lightning Librarian. Let's hope you can live up to your name.</p><p>Your job is to provide students with the books they ask for. But it's not going to be easy.</p><p>These students are impatient. They become angry and frustrated if you don't get the book to them quickly.</p><p>And they'll leave in a huff if you take too long. If 5 students exit the library without a book, it's game over.</p><p>Worse yet, the books in this library are not organized by subject, title, or card catalog number. The titles don't even appear on the side of the books. All you have to go on is your own memory.</p>"
+
+msgid "Brainsafari instructions"
+msgstr "<p>Within Brain Safari there are 2 minigames for each brain ability, for a total of 8 minigames. By playing these minigames, you train logic, math, memory, and visual skills.</p><p>The brain skill areas are Analyze, Calculate, Memory, and Visual. The minigames themselves all have a fun safari theme involving jungle fruit and animals. As \"Safari\" implies, this game really is a journey through the jungle of the brain.</p><p>The minigames become more difficult as you make progress, so your brain is <a href=\"http://www.memory-improvement-tips.com/brain-games.html\" onclick=\"return FIX.track(this);\">sure to get a workout</a> every time. Brain Safari remembers your profile from session to session, including your name and high scores, which is a neat feature.</p>"
+
+msgid "Door to door instructions"
+msgstr "<p>See the first screen when you start playing.</p>"
+
+msgid "Simon instructions"
+msgstr "<p>Play this free simon game and have fun testing your memory. Follow the pattern of lights and sounds and repeat the same combination to move on to the next round.</p><p>It starts off easy but it won’t be long before you’re questioning your memory and struggling to remember the pattern. Rack up high scores, improve your memory and enjoy this classic game as well as all our other great memory games online.</p>"

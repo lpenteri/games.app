@@ -1,0 +1,8 @@
+curl -v -X POST -H "Content-Type: application/json" -d '{"body":"{\"ability\": \"games\", \"action\": \"gamehome?game=Brainsafari\"}"}' http://localhost:8080/marvin/eventbus/topics/UCEvents
+
+curl -v -X POST -H "Content-Type: application/json" -d '{"body": "{\"ability\": \"games\", \"state\": \"subscribed\"}"}' http://localhost:8080/marvin/eventbus/topics/task_manager
+
+curl -v -X POST -H "Content-Type: application/json" -d '{"body": "{\"ability\": \"games\", \"command\": \"start\"}"}' http://localhost:8080/marvin/eventbus/topics/task_manager
+
+
+curl -v -X POST -H "Content-Type: application/json" -d '{"body": "{\"ability\": \"games\", \"command\": \"start\", \"resources\":[\"UI\",\"motor\"]}"}' http://localhost:8080/marvin/eventbus/topics/task_manager
