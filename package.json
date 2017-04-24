@@ -2,7 +2,7 @@
   "name": "games.app",
   "version": "0.2.0",
   "description": "games app for the Kompai Robot specialized on elderly users",
-  "main": "gamesapp.js",
+  "main": "grunt.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
