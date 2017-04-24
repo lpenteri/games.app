@@ -9,7 +9,7 @@ platform:
 install:
   -  npm install
 
-api: 0.7.3
+api: 0.7.5
 
 package:
   - conf.js
