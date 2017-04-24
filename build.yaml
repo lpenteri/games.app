@@ -19,7 +19,7 @@ package:
   - locales/it-IT/messages.pot 
   - gamesapp.js
   - package.json
-  - games/Chess.swf\
+  - games/Chess.swf
   - games/Disc Golf.swf
   - games/Flappy Bird.swf
   - games/IQ Test.swf
